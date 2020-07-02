@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/https//adebammytayo123.github.io/Contact-Manager/static/css/main.36497136.chunk.css",
-    "main.js": "/https//adebammytayo123.github.io/Contact-Manager/static/js/main.3a53ac02.chunk.js",
-    "main.js.map": "/https//adebammytayo123.github.io/Contact-Manager/static/js/main.3a53ac02.chunk.js.map",
-    "runtime-main.js": "/https//adebammytayo123.github.io/Contact-Manager/static/js/runtime-main.2942dc6a.js",
-    "runtime-main.js.map": "/https//adebammytayo123.github.io/Contact-Manager/static/js/runtime-main.2942dc6a.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/https//adebammytayo123.github.io/Contact-Manager/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a2d0878b.chunk.js": "/https//adebammytayo123.github.io/Contact-Manager/static/js/2.a2d0878b.chunk.js",
-    "static/js/2.a2d0878b.chunk.js.map": "/https//adebammytayo123.github.io/Contact-Manager/static/js/2.a2d0878b.chunk.js.map",
-    "index.html": "/https//adebammytayo123.github.io/Contact-Manager/index.html",
-    "precache-manifest.732e76221debd342d5bdd1e537ac1341.js": "/https//adebammytayo123.github.io/Contact-Manager/precache-manifest.732e76221debd342d5bdd1e537ac1341.js",
-    "service-worker.js": "/https//adebammytayo123.github.io/Contact-Manager/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/https//adebammytayo123.github.io/Contact-Manager/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/https//adebammytayo123.github.io/Contact-Manager/static/css/main.36497136.chunk.css.map",
-    "static/js/2.a2d0878b.chunk.js.LICENSE.txt": "/https//adebammytayo123.github.io/Contact-Manager/static/js/2.a2d0878b.chunk.js.LICENSE.txt"
+    "main.css": "/Contact-Manager/static/css/main.36497136.chunk.css",
+    "main.js": "/Contact-Manager/static/js/main.0fdf882d.chunk.js",
+    "main.js.map": "/Contact-Manager/static/js/main.0fdf882d.chunk.js.map",
+    "runtime-main.js": "/Contact-Manager/static/js/runtime-main.20f398fb.js",
+    "runtime-main.js.map": "/Contact-Manager/static/js/runtime-main.20f398fb.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Contact-Manager/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a2d0878b.chunk.js": "/Contact-Manager/static/js/2.a2d0878b.chunk.js",
+    "static/js/2.a2d0878b.chunk.js.map": "/Contact-Manager/static/js/2.a2d0878b.chunk.js.map",
+    "index.html": "/Contact-Manager/index.html",
+    "precache-manifest.f90603256020c25f3f7ea3ba7d4b0e4c.js": "/Contact-Manager/precache-manifest.f90603256020c25f3f7ea3ba7d4b0e4c.js",
+    "service-worker.js": "/Contact-Manager/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Contact-Manager/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/Contact-Manager/static/css/main.36497136.chunk.css.map",
+    "static/js/2.a2d0878b.chunk.js.LICENSE.txt": "/Contact-Manager/static/js/2.a2d0878b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2942dc6a.js",
+    "static/js/runtime-main.20f398fb.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a2d0878b.chunk.js",
     "static/css/main.36497136.chunk.css",
-    "static/js/main.3a53ac02.chunk.js"
+    "static/js/main.0fdf882d.chunk.js"
   ]
 }
