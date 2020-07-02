@@ -4,7 +4,7 @@ class Test extends Component {
 
     state = {
         title: '',
-        completed: ''
+        body: ''
     }
 
 
@@ -14,7 +14,7 @@ class Test extends Component {
           .then(response => response.json())
             .then(data => this.setState({
                 title: data.title,
-                completed: data.completed
+                body: data.body
           }))
     }
 
@@ -36,11 +36,11 @@ class Test extends Component {
 
     
     render() {
-        const { title, completed } = this.state;
+        const { title, body } = this.state;
         return ( 
             <div>
                 <h1>{title}</h1>
-                <p>{completed}</p>
+                <p>{body}</p>
             </div>
         )
     }
