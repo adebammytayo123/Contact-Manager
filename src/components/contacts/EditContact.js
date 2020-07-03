@@ -47,7 +47,6 @@ class EditContact extends Component {
             email,
             phone
         }
-
         const { id } = this.props.match.params;
 
         const res = await axios.put(`http://jsonplaceholder.typicode.com/users/${id}`, updContact);

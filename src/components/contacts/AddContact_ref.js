@@ -3,10 +3,13 @@ import React, { Component } from 'react';
 export class AddContact extends Component {
     constructor(props) {
         super(props)
-    
+
+
         this.nameInput = React.createRef();
         this.emailInput = React.createRef();
         this.phoneInput = React.createRef();
+        
+    
     };
  
     
