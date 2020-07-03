@@ -5,7 +5,7 @@ import { Consumer } from '../../context';
 import axios from 'axios';
 
 
-export class Contact extends Component {
+class Contact extends Component {
     state = {
         showContactInfo: false
     }
