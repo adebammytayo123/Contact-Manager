@@ -29,8 +29,6 @@ function App() {
               <Route exact path="/test" component={Test} />
               <Route component={NotFound} />
             </Switch>
-              {/* <AddContact />
-              <Contacts /> */}
             </div>
           </div>
          </Router>
